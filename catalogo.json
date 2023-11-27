@@ -1,0 +1,38 @@
+{
+    "vendas": {
+        "preco": 250.0
+    },
+    "servicos": {
+        "preco": 950.00
+    },
+    "marketing": {
+        "preco": 750.00
+    },
+    "commerce": {
+        "preco": 550.00
+    },
+    "analytics": {
+        "preco": 150.00
+    },
+    "integracao": {
+        "preco": 2250.00
+    },
+    "slack": {
+        "preco": 850.00
+    },
+    "plataforma": {
+        "preco": 425.00
+    },
+    "industrias": {
+        "preco": 255.00
+    },
+    "aprendizado": {
+        "preco": 3550.00
+    },
+    "saude": {
+        "preco": 350.00
+    },
+    "parceiros": {
+        "preco": 695.00
+    }
+}
